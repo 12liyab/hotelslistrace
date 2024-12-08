@@ -2,7 +2,7 @@ $(document).ready(function(){
 	"use strict";
     
         /*==================================
-* Author        : "ThemeSine"
+* Author        : "Liyab"
 * Template Name : Listrace directory HTML Template
 * Version       : 1.0
 ==================================== */
