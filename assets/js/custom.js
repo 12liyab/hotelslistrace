@@ -3,7 +3,7 @@ $(document).ready(function(){
     
         /*==================================
 * Author        : "Liyab"
-* Template Name : Listrace directory HTML Template
+* Template Name : Listrace directory HTML 
 * Version       : 1.0
 ==================================== */
 
